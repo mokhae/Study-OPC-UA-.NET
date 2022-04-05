@@ -1,0 +1,17 @@
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\bin\Debug\MinimalClient.exe.config
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\bin\Debug\MinimalClient.exe
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\bin\Debug\MinimalClient.pdb
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\bin\Debug\Opc.Ua.Client.dll
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\bin\Debug\Opc.Ua.ClientControls.dll
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\bin\Debug\Opc.Ua.Configuration.dll
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\bin\Debug\Opc.Ua.Core.dll
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\bin\Debug\Opc.Ua.SampleControls.dll
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\bin\Debug\Opc.Ua.Server.dll
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\obj\Debug\MinimalClient.csprojAssemblyReference.cache
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\obj\Debug\MinimalClient.MinimalClient.resources
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\obj\Debug\MinimalClient.Properties.Resources.resources
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\obj\Debug\MinimalClient.csproj.GenerateResource.cache
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\obj\Debug\MinimalClient.csproj.CoreCompileInputs.cache
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\obj\Debug\MinimalClient.csproj.CopyComplete
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\obj\Debug\MinimalClient.exe
+D:\My\iSource\OPC UA\SeYoungLee\Study-OPC-UA-.NET\Step1-MinimalClientAndServer\MinimalClient\obj\Debug\MinimalClient.pdb
